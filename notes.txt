@@ -10,3 +10,7 @@ vagrant ssh <VM_NAME>		- ssh into a VM
 Shell Scripting
 
 chmod 755			- default permissions for a shell script
+
+echo 'Hello'			- Displays 'hello'
+
+WORD='script'			- Assign a value to a variable
